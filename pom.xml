@@ -13,4 +13,12 @@
         <maven.compiler.source>15</maven.compiler.source>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.telegram</groupId>
+            <artifactId>telegrambots</artifactId>
+            <version>3.5</version>
+        </dependency>
+    </dependencies>
+
 </project>
